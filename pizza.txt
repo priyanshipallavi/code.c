@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("hellow pizza");
+return 0;
+}
